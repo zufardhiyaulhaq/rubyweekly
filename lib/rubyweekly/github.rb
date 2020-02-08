@@ -10,6 +10,15 @@ class GithubHandler
     end
 
     def get_file(repo, path)
-        YAML::load(Base64.decode64(@client.contents(repo, :path => path)[:content]))
+        content_data = @client.contents(repo, :path => path)
+        return YAML::load(Base64.decode64(content_data[:content])), content_data[:sha]
+    end
+
+    def update_file(repo, path, message, content, sha)
+        @client.update_contents(repo,
+            path,
+            message,
+            sha,
+            content,)
     end
 end

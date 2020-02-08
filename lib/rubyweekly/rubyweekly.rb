@@ -4,7 +4,7 @@ require 'nokogiri'
 
 class RubyweeklyHandler
     def initialize()
-        @url = "https://rubyweekly.com/issues/latest?layout=bare"
+        @url = 'https://rubyweekly.com/issues/latest?layout=bare'
     end
 
     private
@@ -21,8 +21,8 @@ class RubyweeklyHandler
 
         data.css('span.mainlink').each() do |i|
             map = {
-                "title" => i.text(),
-                "url" => i.css('a').attr('href').value()
+                'title' => i.text(),
+                'url' => i.css('a').attr('href').value()
             }
             content.push(map)
         end
@@ -37,16 +37,16 @@ class RubyweeklyHandler
         content = scrape_content()
 
         information = {
-            "name" => "rubyweekly "+data.css('table').text().match(/#\d+/).to_s(),
-            "send" => false,
-            "content" => content
+            'name' => 'rubyweekly '+data.css('table').text().match(/#\d+/).to_s(),
+            'send' => false,
+            'content' => content
         }
     end
 end    
 
 
 
-# out_file = File.new("../../content/rubyweekly.yaml", "w")
-# out_file.puts(data.to_yaml().gsub("---\n", ''))
+# out_file = File.new('../../content/rubyweekly.yaml', 'w')
+# out_file.puts(data.to_yaml().gsub('---\n', ''))
 # out_file.close
-# puts(parser.scrape_information().to_yaml().gsub("---\n", ''))
+# puts(parser.scrape_information().to_yaml().gsub('---\n', ''))
