@@ -1,5 +1,5 @@
 - name: 'rubyweekly #487'
-  send: false
+  send: true
   content:
   - title: "▶  An Interview with David Heinemeier Hansson, the Software Contrarian"
     url: https://rubyweekly.com/link/83499/web
