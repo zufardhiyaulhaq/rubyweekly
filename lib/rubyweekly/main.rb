@@ -10,8 +10,8 @@ rubyweekly_new = rubyweekly.scrape_information()
 rubyweekly_old, sha = github.get_file(ENV['REPOSITORY'],'./content/rubyweekly.yaml')
 
 update = true
-rubyweekly_old.each() do |r|
-    if rubyweekly_new['name'] == r['name']
+rubyweekly_old.each() do |content|
+    if rubyweekly_new['name'] == content['name']
         update = false
     end
 end
