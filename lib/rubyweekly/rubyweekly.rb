@@ -1,0 +1,54 @@
+require 'active_support/core_ext/hash/keys'
+require 'httparty'
+require 'nokogiri'
+require 'yaml'
+
+class Rubyweekly
+    def initialize()
+        @url = "https://rubyweekly.com/issues/latest?layout=bare"
+    end
+
+    private
+    def parse_url(url)
+        unparsed_page = HTTParty.get(url)
+        Nokogiri::HTML(unparsed_page)
+    end
+    
+    private
+    def scrape_content()
+        content = []
+        parsed_page = parse_url(@url)
+        data = parsed_page.css('div#content')
+
+        data.css('span.mainlink').each() do |i|
+            map = {
+                "title" => i.text(),
+                "url" => i.css('a').attr('href').value()
+            }
+            content.push(map)
+        end
+
+        return content
+    end
+
+    public
+    def scrape_information()
+        parsed_page = parse_url(@url)
+        data = parsed_page.css('div#content')
+        content = scrape_content()
+
+        information = {
+            "name" => "rubyweekly "+data.css('table').text().match(/#\d+/).to_s(),
+            "send" => false,
+            "content" => content
+        }
+    end
+end
+
+parser = Rubyweekly.new()
+data = []
+data.push(parser.scrape_information())
+out_file = File.new("../../content/rubyweekly.yaml", "w")
+out_file.puts(data.to_yaml().gsub("---\n", ''))
+out_file.close
+# puts(parser.scrape_information().to_yaml().gsub("---\n", ''))
