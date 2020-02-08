@@ -1,9 +1,8 @@
 require 'active_support/core_ext/hash/keys'
 require 'httparty'
 require 'nokogiri'
-require 'yaml'
 
-class Rubyweekly
+class RubyweeklyHandler
     def initialize()
         @url = "https://rubyweekly.com/issues/latest?layout=bare"
     end
@@ -43,12 +42,11 @@ class Rubyweekly
             "content" => content
         }
     end
-end
+end    
 
-parser = Rubyweekly.new()
-data = []
-data.push(parser.scrape_information())
-out_file = File.new("../../content/rubyweekly.yaml", "w")
-out_file.puts(data.to_yaml().gsub("---\n", ''))
-out_file.close
+
+
+# out_file = File.new("../../content/rubyweekly.yaml", "w")
+# out_file.puts(data.to_yaml().gsub("---\n", ''))
+# out_file.close
 # puts(parser.scrape_information().to_yaml().gsub("---\n", ''))
