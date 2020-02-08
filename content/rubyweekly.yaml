@@ -55,3 +55,60 @@
     url: https://rubyweekly.com/link/83543/web
   - title: 'ParallelTests: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber'
     url: https://rubyweekly.com/link/83547/web
+- name: 'rubyweekly #487'
+  send: false
+  content:
+  - title: "▶  An Interview with David Heinemeier Hansson, the Software Contrarian"
+    url: https://rubyweekly.com/link/83499/web
+  - title: Exploring Big-O Notation with Ruby
+    url: https://rubyweekly.com/link/83501/web
+  - title: Because Reading Error Logs Is Not a Hobby
+    url: https://rubyweekly.com/link/83503/web
+  - title: Error Handling with Monads in Ruby
+    url: https://rubyweekly.com/link/83505/web
+  - title: The Missing Semester of Your CS Education
+    url: https://rubyweekly.com/link/83507/web
+  - title: Ruby on Rails Engineer at Buildkite (Remote)
+    url: https://rubyweekly.com/link/83511/web
+  - title: Senior Software Engineer (Remote/Montreal)
+    url: https://rubyweekly.com/link/83513/web
+  - title: Find a Dev Job Through Vettery
+    url: https://rubyweekly.com/link/83514/web
+  - title: How to Pass Arguments to Methods in Ruby and How It Affects Their Arity
+    url: https://rubyweekly.com/link/83516/web
+  - title: Deploying a Rails 6 App with Dokku
+    url: https://rubyweekly.com/link/83517/web
+  - title: Backward-Compatible Database Migrations
+    url: https://rubyweekly.com/link/83520/web
+  - title: "▶  How to Ask For The Job, with Brian Mariani"
+    url: https://rubyweekly.com/link/83534/web
+  - title: Handling and Customizing Ruby 2.7 Deprecation Warnings
+    url: https://rubyweekly.com/link/83522/web
+  - title: 'JetBrains RubyMine: A Cross-platform Ruby & Rails IDE'
+    url: https://rubyweekly.com/link/83526/web
+  - title: What Kinds of Rails Tests I Write and What Kinds I Don't
+    url: https://rubyweekly.com/link/83538/web
+  - title: Lambdas Are Better Than Procs
+    url: https://rubyweekly.com/link/83540/web
+  - title: 'Pay No Attention: Behind the Magic of Ruby DSLs'
+    url: https://rubyweekly.com/link/83532/web
+  - title: Dockerizing a Rails Application
+    url: https://rubyweekly.com/link/83528/web
+  - title: Gemifying Your Style Guide to DRY Your CSS
+    url: https://rubyweekly.com/link/83530/web
+  - title: 'ruby_detective: Investigating Your Ruby Code Dependencies'
+    url: https://rubyweekly.com/link/83542/web
+  - title: 'tty-exit: Human-Friendly Terminal Exit Codes'
+    url: https://rubyweekly.com/link/83551/web
+  - title: 'Counter Culture: ''Turbo-Charged'' Counter Caches for Rails Apps'
+    url: https://rubyweekly.com/link/83552/web
+  - title: The Tool That Shopify and Rails Uses for Faster and More Reliable CI
+    url: https://rubyweekly.com/link/83549/web
+  - title: 'Ruby/Git: A git Wrapper for Use from Ruby'
+    url: https://rubyweekly.com/link/83553/web
+  - title: 'VCR 5.1: Record Your Test Suite''s HTTP Interactions and Replay Them'
+    url: https://rubyweekly.com/link/83554/web
+  - title: 'OctoLinker: Links Together What Belongs Together in GitHub Repos'
+    url: https://rubyweekly.com/link/83543/web
+  - title: 'ParallelTests: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber'
+    url: https://rubyweekly.com/link/83547/web
