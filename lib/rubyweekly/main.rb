@@ -1,5 +1,5 @@
-require './rubyweekly'
-require './github'
+require_relative './rubyweekly.rb'
+require_relative './github.rb'
 
 require 'yaml'
 
@@ -16,9 +16,11 @@ rubyweekly_old.each() do |r|
     end
 end
 
-update = true
 if update
+    puts("Running Rubyweekly updates")
     rubyweekly_old.push(rubyweekly_new)
     github.update_file(ENV['REPOSITORY'], './content/rubyweekly.yaml', 'update rubyweekly data', rubyweekly_old.to_yaml().gsub("---\n", ''), sha)
+else
+    puts("No Rubyweekly updates")
 end
 

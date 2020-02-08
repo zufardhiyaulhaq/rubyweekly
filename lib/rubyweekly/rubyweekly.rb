@@ -43,10 +43,3 @@ class RubyweeklyHandler
         }
     end
 end    
-
-
-
-# out_file = File.new('../../content/rubyweekly.yaml', 'w')
-# out_file.puts(data.to_yaml().gsub('---\n', ''))
-# out_file.close
-# puts(parser.scrape_information().to_yaml().gsub('---\n', ''))
