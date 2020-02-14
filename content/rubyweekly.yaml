@@ -56,7 +56,7 @@
   - title: 'ParallelTests: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber'
     url: https://rubyweekly.com/link/83547/web
 - name: 'rubyweekly #488'
-  send: false
+  send: true
   content:
   - title: A Look Inside the Ruby Concurrency Toolbox
     url: https://rubyweekly.com/link/83833/web
