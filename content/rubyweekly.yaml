@@ -55,3 +55,58 @@
     url: https://rubyweekly.com/link/83543/web
   - title: 'ParallelTests: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber'
     url: https://rubyweekly.com/link/83547/web
+- name: 'rubyweekly #488'
+  send: false
+  content:
+  - title: A Look Inside the Ruby Concurrency Toolbox
+    url: https://rubyweekly.com/link/83833/web
+  - title: 'rubyapi.org: Another Way to Search and Explore Core Ruby Docs'
+    url: https://rubyweekly.com/link/83834/web
+  - title: Get Deeper Insights into Your DB with Automated EXPLAIN Plan Analysis
+    url: https://rubyweekly.com/link/83836/web
+  - title: GitHub CLI Now in Beta
+    url: https://rubyweekly.com/link/83837/web
+  - title: 'Twitter 7.0: A Ruby Interface to the Twitter API'
+    url: https://rubyweekly.com/link/83838/web
+  - title: How Do I Use Rails Ruby Bench?
+    url: https://rubyweekly.com/link/83839/web
+  - title: Ruby on Rails Engineer at Buildkite (Remote)
+    url: https://rubyweekly.com/link/83840/web
+  - title: Rails Developer at GoMore (Copenhagen or Remote/EU)
+    url: https://rubyweekly.com/link/83841/web
+  - title: Find a Dev Job Through Vettery
+    url: https://rubyweekly.com/link/83842/web
+  - title: Repurposing an Old Android Phone as a Ruby Web Server
+    url: https://rubyweekly.com/link/83843/web
+  - title: How to Deal with 1,000 Failing Specs in a Rails App
+    url: https://rubyweekly.com/link/83844/web
+  - title: Does Your App or Gem Need an Upgrade?
+    url: https://rubyweekly.com/link/83845/web
+  - title: Getting Started with System Tests in Rails with Minitest
+    url: https://rubyweekly.com/link/83846/web
+  - title: Disallowed ActiveSupport Deprecations Coming to Rails 6.1
+    url: https://rubyweekly.com/link/83847/web
+  - title: An Experience of Migrating a Rails API to Crystal and AWS Lambda
+    url: https://rubyweekly.com/link/83849/web
+  - title: Automatic Image Moderation using Amazon Rekognition
+    url: https://rubyweekly.com/link/83851/web
+  - title: How to Deploy a Rails App to AWS Elastic Beanstalk
+    url: https://rubyweekly.com/link/83852/web
+  - title: Understanding Rails Secrets/Credentials
+    url: https://rubyweekly.com/link/83853/web
+  - title: 'Rubynetes: Kubernetes Config The Easy Way'
+    url: https://rubyweekly.com/link/83854/web
+  - title: Comparing the Ways to Calculate a Mean Average from a Ruby Array
+    url: https://rubyweekly.com/link/83855/web
+  - title: 'httplog: Log Outgoing HTTP Requests in Ruby'
+    url: https://rubyweekly.com/link/83856/web
+  - title: 'Inline SVG: Embed SVG Documents Into Rails Views and Style Them with CSS'
+    url: https://rubyweekly.com/link/83857/web
+  - title: 'JetBrains RubyMine: A Cross-Platform Ruby & Rails IDE'
+    url: https://rubyweekly.com/link/83864/web
+  - title: 'Blind Index: Securely Search Encrypted Database Fields'
+    url: https://rubyweekly.com/link/83859/web
+  - title: 'backports: Some New Ruby 2.7 Features Added'
+    url: https://rubyweekly.com/link/83861/web
+  - title: 'OmniAuth GitHub 1.4: A GitHub Strategy for OmniAuth'
+    url: https://rubyweekly.com/link/83862/web
