@@ -111,7 +111,7 @@
   - title: 'OmniAuth GitHub 1.4: A GitHub Strategy for OmniAuth'
     url: https://rubyweekly.com/link/83862/web
 - name: 'rubyweekly #489'
-  send: false
+  send: true
   content:
   - title: 'Ferrum: A High Level Ruby API to Control Chrome'
     url: https://rubyweekly.com/link/84188/web
