@@ -110,3 +110,58 @@
     url: https://rubyweekly.com/link/83861/web
   - title: 'OmniAuth GitHub 1.4: A GitHub Strategy for OmniAuth'
     url: https://rubyweekly.com/link/83862/web
+- name: 'rubyweekly #489'
+  send: false
+  content:
+  - title: 'Ferrum: A High Level Ruby API to Control Chrome'
+    url: https://rubyweekly.com/link/84188/web
+  - title: How I MITM'd RubyGems.org... Kinda
+    url: https://rubyweekly.com/link/84189/web
+  - title: Troubleshoot Ruby App Performance with End-To-End Tracing
+    url: https://rubyweekly.com/link/84190/web
+  - title: The Top Ruby HTTP Clients for 2020
+    url: https://rubyweekly.com/link/84191/web
+  - title: JRuby 9.2.10.0 Released
+    url: https://rubyweekly.com/link/84192/web
+  - title: 'date-formatter: Format Dates by Example'
+    url: https://rubyweekly.com/link/84193/web
+  - title: Announcing a 100% Remote Opportunity as a Sr. Ruby on Rails Dev
+    url: https://rubyweekly.com/link/84195/web
+  - title: Software Engineer (Remote or London), Reinventing Consumer Credit
+    url: https://rubyweekly.com/link/84196/web
+  - title: Find a Dev Job Through Vettery
+    url: https://rubyweekly.com/link/84197/web
+  - title: Linking a Webcam Directly to Rails' ActiveStorage
+    url: https://rubyweekly.com/link/84198/web
+  - title: Ruby 2.7 Adds Enumerable#tally
+    url: https://rubyweekly.com/link/84199/web
+  - title: 'Decoupling Ruby: Delegation vs Dependency Injection'
+    url: https://rubyweekly.com/link/84200/web
+  - title: "▶  11 Ruby and Rails Podcasts Worth Your Time"
+    url: https://rubyweekly.com/link/84201/web
+  - title: 'Founders/CTOs: We Upgrade Rails So That Your Team Doesn’t Have To'
+    url: https://rubyweekly.com/link/84202/web
+  - title: How to Build a WhatsApp Chatbot with Ruby, Sinatra and Twilio
+    url: https://rubyweekly.com/link/84203/web
+  - title: Migrating User Passwords From Django to Ruby
+    url: https://rubyweekly.com/link/84204/web
+  - title: Putting All Your Mailer Views in One Place
+    url: https://rubyweekly.com/link/84205/web
+  - title: 'RuboCop 0.80: The Ruby Static Code Analyzer and Formatter'
+    url: https://rubyweekly.com/link/84206/web
+  - title: RubyGems 3.0.8 Released
+    url: https://rubyweekly.com/link/84208/web
+  - title: 'Brakeman: A Security Vulnerability Scanner for Rails Apps'
+    url: https://rubyweekly.com/link/84209/web
+  - title: Upgrade Your Ruby CI/CD Pipeline for Free
+    url: https://rubyweekly.com/link/84210/web
+  - title: 'Oga: An XML/HTML Parser Written in Pure Ruby'
+    url: https://rubyweekly.com/link/84211/web
+  - title: 'Fake API: A Faster Way to Prototype an API in Your Rails App'
+    url: https://rubyweekly.com/link/84213/web
+  - title: 'Kiba 3.0: Data Processing & ETL Framework for Ruby'
+    url: https://rubyweekly.com/link/84214/web
+  - title: 'Midas: Edge Stream Anomaly Detection'
+    url: https://rubyweekly.com/link/84215/web
+  - title: 'Groupdate 5.0: A Simple Way to Group Temporal Data'
+    url: https://rubyweekly.com/link/84217/web
