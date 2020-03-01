@@ -166,7 +166,7 @@
   - title: 'Groupdate 5.0: A Simple Way to Group Temporal Data'
     url: https://rubyweekly.com/link/84217/web
 - name: 'rubyweekly #490'
-  send: false
+  send: true
   content:
   - title: Introducing Hanami::API
     url: https://rubyweekly.com/link/84552/web
