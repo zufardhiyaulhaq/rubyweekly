@@ -165,3 +165,52 @@
     url: https://rubyweekly.com/link/84215/web
   - title: 'Groupdate 5.0: A Simple Way to Group Temporal Data'
     url: https://rubyweekly.com/link/84217/web
+- name: 'rubyweekly #490'
+  send: false
+  content:
+  - title: Introducing Hanami::API
+    url: https://rubyweekly.com/link/84552/web
+  - title: AWS Lambda Now Supports Ruby 2.7
+    url: https://rubyweekly.com/link/84554/web
+  - title: Get the Most Out of Redis
+    url: https://rubyweekly.com/link/84541/web
+  - title: 'Sonic Pi 3.2 (Tau): The Ruby-Powered Live Coding Music Synth'
+    url: https://rubyweekly.com/link/84555/web
+  - title: RubyKaigi 2020 Schedule Revealed
+    url: https://rubyweekly.com/link/84558/web
+  - title: Happy Birthday, Ruby!
+    url: https://rubyweekly.com/link/84542/web
+  - title: Seeking Rails-Experienced Front End Lead Developer
+    url: https://rubyweekly.com/link/84551/web
+  - title: "(Senior) Ruby on Rails Developer (m/f/x)"
+    url: https://rubyweekly.com/link/84543/web
+  - title: Find a Dev Job Through Vettery
+    url: https://rubyweekly.com/link/84544/web
+  - title: How to Test Static Sites with RSpec, Capybara, and Webkit
+    url: https://rubyweekly.com/link/84559/web
+  - title: Rails Mistakes That Could Break Your Production Servers
+    url: https://rubyweekly.com/link/84560/web
+  - title: Rails Has Added a 'Strict Loading' Mode to Prevent Lazy Loading
+    url: https://rubyweekly.com/link/84561/web
+  - title: "▶  Writing Ruby for the Apple II with Colin Fulton"
+    url: https://rubyweekly.com/link/84562/web
+  - title: 'eBook: How Atlassian and Others Are Optimizing Their Postgres Query Performance'
+    url: https://rubyweekly.com/link/84546/web
+  - title: Using 'Pending' Cops in Rubocop to Make Upgrades Easier
+    url: https://rubyweekly.com/link/84563/web
+  - title: 'Rubynetes: Reflecting with OpenAPI'
+    url: https://rubyweekly.com/link/84564/web
+  - title: Deep Dive Into rackup
+    url: https://rubyweekly.com/link/84566/web
+  - title: Partitioning Parallel Tests On Heroku CI
+    url: https://rubyweekly.com/link/84567/web
+  - title: 'Better Errors: A ''Better Error Page'' for Rack Apps'
+    url: https://rubyweekly.com/link/84568/web
+  - title: An Advanced Cross-Platform IDE for Ruby and Rails
+    url: https://rubyweekly.com/link/84545/web
+  - title: 'Rpush 5.0: A Push Notification Service for Ruby'
+    url: https://rubyweekly.com/link/84569/web
+  - title: 'will_paginate 3.3: A Pagination library for Rails, Sinatra, and More'
+    url: https://rubyweekly.com/link/84570/web
+  - title: 'acts_as_list 1.0: An ActiveRecord Plugin for Managing Lists'
+    url: https://rubyweekly.com/link/84571/web
