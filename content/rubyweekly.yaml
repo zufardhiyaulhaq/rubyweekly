@@ -215,7 +215,7 @@
   - title: 'acts_as_list 1.0: An ActiveRecord Plugin for Managing Lists'
     url: https://rubyweekly.com/link/84571/web
 - name: 'rubyweekly #491'
-  send: false
+  send: true
   content:
   - title: The Art of Writing a Good Ruby Gem Specification
     url: https://rubyweekly.com/link/84863/web
