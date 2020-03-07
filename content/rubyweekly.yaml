@@ -214,3 +214,58 @@
     url: https://rubyweekly.com/link/84570/web
   - title: 'acts_as_list 1.0: An ActiveRecord Plugin for Managing Lists'
     url: https://rubyweekly.com/link/84571/web
+- name: 'rubyweekly #491'
+  send: false
+  content:
+  - title: The Art of Writing a Good Ruby Gem Specification
+    url: https://rubyweekly.com/link/84863/web
+  - title: Official Docs for Ruby 2.7's Pattern Matching
+    url: https://rubyweekly.com/link/84864/web
+  - title: Your Ruby CI/CD Pipeline Needs an Upgrade
+    url: https://rubyweekly.com/link/84865/web
+  - title: RubyKaigi 2020 Postponed Due to Coronavirus
+    url: https://rubyweekly.com/link/84867/web
+  - title: 'Spree 4.1: The Rails 6 Based Ecommerce Platform'
+    url: https://rubyweekly.com/link/84868/web
+  - title: Ruby 2.7's Numbered Parameters as Default Block Parameters
+    url: https://rubyweekly.com/link/84870/web
+  - title: Seeking Rails-Experienced Front End Lead Developer
+    url: https://rubyweekly.com/link/84871/web
+  - title: Principal Engineer - Zendesk Talk (Dublin, Ireland)
+    url: https://rubyweekly.com/link/84872/web
+  - title: Find a Dev Job Through Vettery
+    url: https://rubyweekly.com/link/84873/web
+  - title: Benchmarking Ruby 2.7.0's Numbered Parameters
+    url: https://rubyweekly.com/link/84874/web
+  - title: Using Hanami::API on Amazon AWS Lambda
+    url: https://rubyweekly.com/link/84875/web
+  - title: Building a Rails App That Uses Multiple Subdomains
+    url: https://rubyweekly.com/link/84877/web
+  - title: Converting Unix Epoch Timestamps to Ruby Objects
+    url: https://rubyweekly.com/link/84878/web
+  - title: Seamlessly Integrate Video into Your Ruby App
+    url: https://rubyweekly.com/link/84879/web
+  - title: Syntax Highlighting with Action Text
+    url: https://rubyweekly.com/link/84880/web
+  - title: Why Pry is One of the Most Important Tools a Junior Rubyist Can Learn
+    url: https://rubyweekly.com/link/84882/web
+  - title: Compiling the Latest Ruby from Scratch with chruby
+    url: https://rubyweekly.com/link/84883/web
+  - title: Rails 6 Added 'Jitter' to ActiveJob::Exceptions.retry_on
+    url: https://rubyweekly.com/link/84885/web
+  - title: Faster Excel Parsing in Ruby
+    url: https://rubyweekly.com/link/84886/web
+  - title: A Secret Weapon For Your Rails Apps? RPC with RabbitMQ and Hutch
+    url: https://rubyweekly.com/link/84887/web
+  - title: JRuby 9.2.11.0 Released
+    url: https://rubyweekly.com/link/84888/web
+  - title: Spreadsheet Architect v4.0.0 Released
+    url: https://rubyweekly.com/link/84889/web
+  - title: Sidekiq Optimization and Monitoring
+    url: https://rubyweekly.com/link/84890/web
+  - title: 'Chaskiq: An  Open Source Conversational Marketing Alternative'
+    url: https://rubyweekly.com/link/84891/web
+  - title: 'FakeRedis: An In-Memory Driver for redis-rb'
+    url: https://rubyweekly.com/link/84892/web
+  - title: 'Valvat 0.9: Validates European VAT Numbers'
+    url: https://rubyweekly.com/link/84893/web
