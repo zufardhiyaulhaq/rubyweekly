@@ -269,3 +269,55 @@
     url: https://rubyweekly.com/link/84892/web
   - title: 'Valvat 0.9: Validates European VAT Numbers'
     url: https://rubyweekly.com/link/84893/web
+- name: 'rubyweekly #492'
+  send: false
+  content:
+  - title: 'TableSmith: A Simple Terminal Table Renderer'
+    url: https://rubyweekly.com/link/85228/web
+  - title: 25 Reasons to Switch to Webpacker
+    url: https://rubyweekly.com/link/85229/web
+  - title: Get to the Bottom of Performance Issues FAST with ScoutAPM
+    url: https://rubyweekly.com/link/85230/web
+  - title: "'Fear-Free' Postgres Migrations for Rails"
+    url: https://rubyweekly.com/link/85231/web
+  - title: RailsConf 2020 Cancelled
+    url: https://rubyweekly.com/link/85233/web
+  - title: 'rack-mini-profiler 2.0: Profiler for Your Rack Apps in Dev or Production'
+    url: https://rubyweekly.com/link/85234/web
+  - title: A Visual Explanation of What's New in Kiba ETL v3
+    url: https://rubyweekly.com/link/85235/web
+  - title: Principal Engineer - Zendesk Talk (Dublin, Ireland)
+    url: https://rubyweekly.com/link/85237/web
+  - title: Full-Stack Engineer (React.js / Rails) (f/m/d), Berlin, Germany
+    url: https://rubyweekly.com/link/85238/web
+  - title: Find a Dev Job Through Vettery
+    url: https://rubyweekly.com/link/85239/web
+  - title: How We Migrated From Timecop to Rails 5.2's Time Helpers
+    url: https://rubyweekly.com/link/85240/web
+  - title: "▶  Cypress vs. Capybara: A Three Part Tutorial Series"
+    url: https://rubyweekly.com/link/85242/web
+  - title: Does Your App or Gem Need an Upgrade?
+    url: https://rubyweekly.com/link/85243/web
+  - title: 'Ruby''s Bitwise Toolbox: Operators, Applications and Magic Tricks'
+    url: https://rubyweekly.com/link/85244/web
+  - title: Getting Started with Elasticsearch and Ruby
+    url: https://rubyweekly.com/link/85246/web
+  - title: "▶  Discussing Rails Upgrades and Using Skunk for Scoring"
+    url: https://rubyweekly.com/link/85248/web
+  - title: 'eBook: Best Practices for Optimizing Postgres Query Performance'
+    url: https://rubyweekly.com/link/85249/web
+  - title: "(Make Your Tests) Necessary and Sufficient"
+    url: https://rubyweekly.com/link/85250/web
+  - title: 'Barcharts: Simple Terminal Barchart Rendering'
+    url: https://rubyweekly.com/link/85251/web
+  - title: dry-schema and dry-validation 1.5.0 Released
+    url: https://rubyweekly.com/link/85252/web
+  - title: 'kt-paperclip: A Maintained Fork of Paperclip'
+    url: https://rubyweekly.com/link/85253/web
+  - title: 'dyndnsd.rb: A Small, Extensible DynDNS Server Powered by Rack'
+    url: https://rubyweekly.com/link/85256/web
+  - title: 'Delivery Boy: A Simple Way to Publish Messages to Kafka'
+    url: https://rubyweekly.com/link/85257/web
+  - title: 'Version Cake 4.0: An Unobtrusive Way to Version APIs in Rails or Rack
+      Apps'
+    url: https://rubyweekly.com/link/85258/web
