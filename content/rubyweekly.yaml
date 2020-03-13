@@ -270,7 +270,7 @@
   - title: 'Valvat 0.9: Validates European VAT Numbers'
     url: https://rubyweekly.com/link/84893/web
 - name: 'rubyweekly #492'
-  send: false
+  send: true
   content:
   - title: 'TableSmith: A Simple Terminal Table Renderer'
     url: https://rubyweekly.com/link/85228/web
