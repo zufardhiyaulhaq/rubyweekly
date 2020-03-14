@@ -1,5 +1,5 @@
 # Start from the ruby base image
-FROM ruby:latest
+FROM ruby:2.6.5
 
 # Add Maintainer Info
 LABEL maintainer="Zufar Dhiyaulhaq <zufardhiyaulhaq@gmail.com>"
