@@ -322,7 +322,7 @@
       Apps'
     url: https://rubyweekly.com/link/85258/web
 - name: 'rubyweekly #493'
-  send: false
+  send: true
   content:
   - title: Announcing RubyGems.org Stats
     url: https://rubyweekly.com/link/85540/web
