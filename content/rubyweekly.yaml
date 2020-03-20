@@ -370,3 +370,6 @@
     url: https://rubyweekly.com/link/85563/web
   - title: 'Telegram Bot Helpers: Helpful Code If You''re Building a Telegram Bot'
     url: https://rubyweekly.com/link/85564/web
+- name: 'rubyweekly '
+  send: false
+  content: []
