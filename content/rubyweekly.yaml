@@ -321,3 +321,52 @@
   - title: 'Version Cake 4.0: An Unobtrusive Way to Version APIs in Rails or Rack
       Apps'
     url: https://rubyweekly.com/link/85258/web
+- name: 'rubyweekly #493'
+  send: false
+  content:
+  - title: Announcing RubyGems.org Stats
+    url: https://rubyweekly.com/link/85540/web
+  - title: Improving the Dev Experience with Overmind
+    url: https://rubyweekly.com/link/85541/web
+  - title: 'JetBrains RubyMine: A Cross-platform Ruby & Rails IDE'
+    url: https://rubyweekly.com/link/85543/web
+  - title: 'Spring Cleaning: Tidying Up Your Codebase'
+    url: https://rubyweekly.com/link/85544/web
+  - title: "▶  Discussing the History and Personalities of Ruby with Chris O’Sullivan"
+    url: https://rubyweekly.com/link/85545/web
+  - title: 'Lies, Damned Lies, and Averages: Perc50, Perc95 Explained for Programmers'
+    url: https://rubyweekly.com/link/85546/web
+  - title: Rails Experts — Join Our Bootstrapped Remote Team
+    url: https://rubyweekly.com/link/85547/web
+  - title: SRE @ Doximity - Rails Developers with Infra Passion Welcome
+    url: https://rubyweekly.com/link/85548/web
+  - title: Find a Dev Job Through Vettery
+    url: https://rubyweekly.com/link/85549/web
+  - title: A Rubyist's Introduction to Character Encoding, Unicode and UTF-8
+    url: https://rubyweekly.com/link/85565/web
+  - title: Using AWS SAM Cookiecutter Project Templates for AWS Lambda Projects
+    url: https://rubyweekly.com/link/85551/web
+  - title: Ruby 2.7's Enumerator::Lazy#eager
+    url: https://rubyweekly.com/link/85552/web
+  - title: How to Build A Location-Aware WhatsApp Weather Bot with Sinatra and Twilio
+    url: https://rubyweekly.com/link/85554/web
+  - title: "▶  Implementing File Uploads in Rails with Shrine"
+    url: https://rubyweekly.com/link/85555/web
+  - title: Using the Facade Pattern in Rails for Performance and Maintainability
+    url: https://rubyweekly.com/link/85556/web
+  - title: Simple Fallacies of Distributed Computing for Ruby Developers
+    url: https://rubyweekly.com/link/85557/web
+  - title: Dig'gin Through Hashes and Arrays
+    url: https://rubyweekly.com/link/85558/web
+  - title: Remote Tools and Tips in These Remote Times
+    url: https://rubyweekly.com/link/85559/web
+  - title: 'str_metrics: A String Metrics Gem Partly Written in Rust'
+    url: https://rubyweekly.com/link/85560/web
+  - title: 'Active Record Doctor: Identify Database Issues Before They Hit Production'
+    url: https://rubyweekly.com/link/85561/web
+  - title: 'Founders/CTOs: We Upgrade Rails So That Your Team Doesn’t Have To'
+    url: https://rubyweekly.com/link/85562/web
+  - title: CanCanCan 3.1.0 Released
+    url: https://rubyweekly.com/link/85563/web
+  - title: 'Telegram Bot Helpers: Helpful Code If You''re Building a Telegram Bot'
+    url: https://rubyweekly.com/link/85564/web
