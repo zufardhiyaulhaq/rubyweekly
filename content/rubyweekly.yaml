@@ -374,7 +374,7 @@
   send: true
   content: []
 - name: 'rubyweekly #494'
-  send: false
+  send: true
   content:
   - title: Why and How to Host a Rails App with AWS Elastic Beanstalk and RDS
     url: https://rubyweekly.com/link/85865/web
