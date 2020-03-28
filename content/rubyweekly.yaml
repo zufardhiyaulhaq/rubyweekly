@@ -373,3 +373,50 @@
 - name: 'rubyweekly '
   send: true
   content: []
+- name: 'rubyweekly #494'
+  send: false
+  content:
+  - title: Why and How to Host a Rails App with AWS Elastic Beanstalk and RDS
+    url: https://rubyweekly.com/link/85865/web
+  - title: "▶  Sorbet: Discussing Typed Ruby with Dmitry Petrashko"
+    url: https://rubyweekly.com/link/85867/web
+  - title: Get the Most Out of Redis
+    url: https://rubyweekly.com/link/85869/web
+  - title: An Unsafe Object Creation Vulnerability in the json Gem
+    url: https://rubyweekly.com/link/85870/web
+  - title: 'RuboCop-ing with Legacy: Bring Your Ruby Code Up to ''Standard'''
+    url: https://rubyweekly.com/link/85871/web
+  - title: Webpacker 5.0 Released
+    url: https://rubyweekly.com/link/85872/web
+  - title: Senior Rails Engineer (Remote, Full Stack Option)
+    url: https://rubyweekly.com/link/85873/web
+  - title: Full-Stack Engineer (React.js / Rails) (f/m/d), Berlin, Germany
+    url: https://rubyweekly.com/link/85874/web
+  - title: Find a Dev Job Through Vettery
+    url: https://rubyweekly.com/link/85875/web
+  - title: How to Build Multi-Step Forms in Rails
+    url: https://rubyweekly.com/link/85876/web
+  - title: How to Renew Let's Encrypt Certificates with ACMEv2 using Ruby
+    url: https://rubyweekly.com/link/85877/web
+  - title: 'eBook: Best Practices for Optimizing Postgres Query Performance'
+    url: https://rubyweekly.com/link/85878/web
+  - title: Securing SSH Keys in Use
+    url: https://rubyweekly.com/link/85879/web
+  - title: "▶  Discussing Servers, systemd and Sidekiq with Mike Perham"
+    url: https://rubyweekly.com/link/85880/web
+  - title: Using Rack::Proxy to Serve Multiple React Apps on the Same Domain
+    url: https://rubyweekly.com/link/85881/web
+  - title: 'PGSync: Sync Postgres Data Between Databases'
+    url: https://rubyweekly.com/link/85882/web
+  - title: 'render_async 2.1.5: Render Partials Asynchronously with JS'
+    url: https://rubyweekly.com/link/85883/web
+  - title: 'Authlogic 6.0: An ActiveRecord-based Authentication Solution'
+    url: https://rubyweekly.com/link/85885/web
+  - title: 'ViewComponent 2.0: View Component Framework for Rails'
+    url: https://rubyweekly.com/link/85886/web
+  - title: Yet Another Sinatra Bootstrap App
+    url: https://rubyweekly.com/link/85887/web
+  - title: JRuby 9.2.11.1 Released
+    url: https://rubyweekly.com/link/85888/web
+  - title: 'pry-byebug: Add Step-by-Step Debugging and Stack Navigation in Pry'
+    url: https://rubyweekly.com/link/85890/web
