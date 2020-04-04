@@ -420,3 +420,50 @@
     url: https://rubyweekly.com/link/85888/web
   - title: 'pry-byebug: Add Step-by-Step Debugging and Stack Navigation in Pry'
     url: https://rubyweekly.com/link/85890/web
+- name: 'rubyweekly #495'
+  send: false
+  content:
+  - title: A Proposal for 'Endless' Method Definitions?
+    url: https://rubyweekly.com/link/86231/web
+  - title: Ruby 2.7.1 Released (And 2.6.6, 2.5.8 and 2.4.10..)
+    url: https://rubyweekly.com/link/86232/web
+  - title: Static Typing in Ruby with a Side of Sorbet
+    url: https://rubyweekly.com/link/86237/web
+  - title: Why Is Rails Boot Slow on macOS?
+    url: https://rubyweekly.com/link/86238/web
+  - title: Understanding the Monty Hall Problem in Ruby Code
+    url: https://rubyweekly.com/link/86239/web
+  - title: 'RailsConf 2020.2: It''s RailsConf, But From Your Couch'
+    url: https://rubyweekly.com/link/86241/web
+  - title: Lead Engineer at Moon Creative Lab
+    url: https://rubyweekly.com/link/86243/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/86244/web
+  - title: Changing the Approach to Debugging in Ruby with TracePoint
+    url: https://rubyweekly.com/link/86245/web
+  - title: "▶  How to Use the 'Pay' Gem to Accept Payments in Rails"
+    url: https://rubyweekly.com/link/86246/web
+  - title: The Ruby Security Checklist
+    url: https://rubyweekly.com/link/86247/web
+  - title: Should I Really Use Monads?
+    url: https://rubyweekly.com/link/86248/web
+  - title: How an Index Route Without Pagination Could Hurt Your App
+    url: https://rubyweekly.com/link/86250/web
+  - title: Exploring Method Arguments in Ruby
+    url: https://rubyweekly.com/link/86251/web
+  - title: 'Running a Rails Consultancy: A Year In'
+    url: https://rubyweekly.com/link/86252/web
+  - title: Download The Complete Guide to Upgrade Rails (Free eBook)
+    url: https://rubyweekly.com/link/86253/web
+  - title: How to Launch an EC2 Instance using Ansible
+    url: https://rubyweekly.com/link/86254/web
+  - title: 'Optimism: A Drop-in Solution for Realtime Remote Validation in Rails'
+    url: https://rubyweekly.com/link/86255/web
+  - title: 'Open-Sourcing Vessel: A Ruby Web Crawling Framework by Evrone'
+    url: https://rubyweekly.com/link/86256/web
+  - title: 'puma-status 1.0: Command-line Tool to Display Information About Puma Processes'
+    url: https://rubyweekly.com/link/86257/web
+  - title: 'pg_query: Use Postgres''s SQL Parser from Ruby'
+    url: https://rubyweekly.com/link/86258/web
+  - title: 40+ Ruby on Rails Application Monitoring Tools
+    url: https://rubyweekly.com/link/86259/web
