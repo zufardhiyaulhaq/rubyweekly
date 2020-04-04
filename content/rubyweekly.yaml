@@ -421,7 +421,7 @@
   - title: 'pry-byebug: Add Step-by-Step Debugging and Stack Navigation in Pry'
     url: https://rubyweekly.com/link/85890/web
 - name: 'rubyweekly #495'
-  send: false
+  send: true
   content:
   - title: A Proposal for 'Endless' Method Definitions?
     url: https://rubyweekly.com/link/86231/web
