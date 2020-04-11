@@ -467,3 +467,58 @@
     url: https://rubyweekly.com/link/86258/web
   - title: 40+ Ruby on Rails Application Monitoring Tools
     url: https://rubyweekly.com/link/86259/web
+- name: 'rubyweekly #496'
+  send: false
+  content:
+  - title: 'Super Bombinhas: An In-Development Platform Game in Ruby'
+    url: https://rubyweekly.com/link/86559/web
+  - title: 70+ Ruby and Rails Security Best Practices and Vulnerabilities
+    url: https://rubyweekly.com/link/86560/web
+  - title: Happy Rails Deployments with Cloud 66
+    url: https://rubyweekly.com/link/86561/web
+  - title: A Few of My Favorite Things
+    url: https://rubyweekly.com/link/86562/web
+  - title: The 'Citadel' Architecture?
+    url: https://rubyweekly.com/link/86563/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/86565/web
+  - title: Lead Engineer at Moon Creative Lab
+    url: https://rubyweekly.com/link/86566/web
+  - title: How to Build a Conference Line with Twilio and Ruby
+    url: https://rubyweekly.com/link/86568/web
+  - title: Heredocs and How to Use Them
+    url: https://rubyweekly.com/link/86569/web
+  - title: 'Our Rails Upgrade Process: How to Bundle Update Rails'
+    url: https://rubyweekly.com/link/86571/web
+  - title: "▶  Using Google Maps API with StimulusJS"
+    url: https://rubyweekly.com/link/86572/web
+  - title: "▶  Streaming Music to Livestreamers"
+    url: https://rubyweekly.com/link/86573/web
+  - title: Why You (Probably) Don't Need PostGIS
+    url: https://rubyweekly.com/link/86574/web
+  - title: 'Upgrading Rails: Tracking Down Deprecated Callbacks in Rails 5.0'
+    url: https://rubyweekly.com/link/86575/web
+  - title: How to Restart Sidekiq Automatically for Each Deployment
+    url: https://rubyweekly.com/link/86576/web
+  - title: What Is The Ruby Legacy?
+    url: https://rubyweekly.com/link/86577/web
+  - title: 'obj.method_name vs class << obj: The Real Difference'
+    url: https://rubyweekly.com/link/86578/web
+  - title: A Hands-On Tutorial to Debugging Your Code with pry-byebug
+    url: https://rubyweekly.com/link/86579/web
+  - title: The Ruby Security Checklist
+    url: https://rubyweekly.com/link/86580/web
+  - title: 'Gruff Graphs: A Graphing Library for Ruby'
+    url: https://rubyweekly.com/link/86581/web
+  - title: 'amazing_print: Pretty Print Your Ruby Objects with Style'
+    url: https://rubyweekly.com/link/86582/web
+  - title: 'Slack-Ruby-Bot: A Generic Slack Bot Framework'
+    url: https://rubyweekly.com/link/86583/web
+  - title: 'Brutal: A Code-First Approach to Automate The Writing of Unit Tests'
+    url: https://rubyweekly.com/link/86584/web
+  - title: 'CSV Shaper: A DSL for Creating CSV Output'
+    url: https://rubyweekly.com/link/86585/web
+  - title: 'Chatwoot: Simple, Open Source Live Chat Software'
+    url: https://rubyweekly.com/link/86586/web
+  - title: 'elasticsearch-ruby 7.6.0: Ruby Integrations & Client for Elasticsearch'
+    url: https://rubyweekly.com/link/86587/web
