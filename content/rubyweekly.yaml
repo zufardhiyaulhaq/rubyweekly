@@ -468,7 +468,7 @@
   - title: 40+ Ruby on Rails Application Monitoring Tools
     url: https://rubyweekly.com/link/86259/web
 - name: 'rubyweekly #496'
-  send: false
+  send: true
   content:
   - title: 'Super Bombinhas: An In-Development Platform Game in Ruby'
     url: https://rubyweekly.com/link/86559/web
