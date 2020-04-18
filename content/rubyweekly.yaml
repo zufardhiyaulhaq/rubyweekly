@@ -522,3 +522,54 @@
     url: https://rubyweekly.com/link/86586/web
   - title: 'elasticsearch-ruby 7.6.0: Ruby Integrations & Client for Elasticsearch'
     url: https://rubyweekly.com/link/86587/web
+- name: 'rubyweekly #497'
+  send: false
+  content:
+  - title: Bye Bye Ruby 2.4, Support Has Ended
+    url: https://rubyweekly.com/link/86840/web
+  - title: Testing Ruby Decorators with super_method
+    url: https://rubyweekly.com/link/86842/web
+  - title: You Hacked the Gibson? Yeah, They Built Their Own Login
+    url: https://rubyweekly.com/link/86843/web
+  - title: 'Heya: A Sequence Mailer for Rails'
+    url: https://rubyweekly.com/link/86844/web
+  - title: A Final Report on Ruby Concurrency Developments
+    url: https://rubyweekly.com/link/86845/web
+  - title: Mocking in Ruby with Minitest
+    url: https://rubyweekly.com/link/86846/web
+  - title: Ruby Backend Developer (Austria)
+    url: https://rubyweekly.com/link/86847/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/86848/web
+  - title: Predicting the Future With Linear Regression in Ruby
+    url: https://rubyweekly.com/link/86850/web
+  - title: 'Feature Flags: A Simple Way to ''De-Stress'' Production Releases'
+    url: https://rubyweekly.com/link/86851/web
+  - title: A Guide to Deprecation Warnings in Rails
+    url: https://rubyweekly.com/link/86852/web
+  - title: What's the Difference Between Monitoring Webhooks and Background Jobs
+    url: https://rubyweekly.com/link/86853/web
+  - title: Understanding webpacker.yml
+    url: https://rubyweekly.com/link/86854/web
+  - title: Using Optimizer Hints in Rails
+    url: https://rubyweekly.com/link/86855/web
+  - title: Dissecting Rails Migrations
+    url: https://rubyweekly.com/link/86856/web
+  - title: The Basics of Custom Exception Handling
+    url: https://rubyweekly.com/link/86857/web
+  - title: How to Improve Code Readability with Closures
+    url: https://rubyweekly.com/link/86858/web
+  - title: 'ruby-prolog: A Pure Ruby Prolog-like DSL for Logical Programming'
+    url: https://rubyweekly.com/link/86859/web
+  - title: 'Anyway Config: Keep Your Ruby Configuration Sensible'
+    url: https://rubyweekly.com/link/86860/web
+  - title: The End of Heroku Alerts
+    url: https://rubyweekly.com/link/86861/web
+  - title: 'Tomo 1.0: A Friendly CLI for Deploying Rails Apps'
+    url: https://rubyweekly.com/link/86862/web
+  - title: 'ActiveLdap 6.0: An Object Oriented Interface to LDAP'
+    url: https://rubyweekly.com/link/86864/web
+  - title: Elasticsearch Integrations for ActiveModel/Record and Rails
+    url: https://rubyweekly.com/link/86865/web
+  - title: RubyMine 2020.1 Released
+    url: https://rubyweekly.com/link/86866/web
