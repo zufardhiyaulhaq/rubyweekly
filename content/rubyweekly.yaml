@@ -523,7 +523,7 @@
   - title: 'elasticsearch-ruby 7.6.0: Ruby Integrations & Client for Elasticsearch'
     url: https://rubyweekly.com/link/86587/web
 - name: 'rubyweekly #497'
-  send: false
+  send: true
   content:
   - title: Bye Bye Ruby 2.4, Support Has Ended
     url: https://rubyweekly.com/link/86840/web
