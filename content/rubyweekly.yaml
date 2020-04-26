@@ -574,7 +574,7 @@
   - title: RubyMine 2020.1 Released
     url: https://rubyweekly.com/link/86866/web
 - name: 'rubyweekly #498'
-  send: false
+  send: true
   content:
   - title: 'Mining for Malicious Ruby Gems: 700+ Gems Affected'
     url: https://rubyweekly.com/link/87168/web
