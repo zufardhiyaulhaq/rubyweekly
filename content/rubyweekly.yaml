@@ -621,7 +621,7 @@
   - title: 'net-ssh 6.0: A Pure Ruby Implementation of the SSH2 Client Protocol'
     url: https://rubyweekly.com/link/87190/web
 - name: 'rubyweekly #499'
-  send: false
+  send: true
   content:
   - title: "▶  Let's Build a Twitter Clone in 10 Minutes with Rails, CableReady, and
       StimulusReflex"
