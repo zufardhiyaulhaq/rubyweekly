@@ -620,3 +620,52 @@
     url: https://rubyweekly.com/link/87189/web
   - title: 'net-ssh 6.0: A Pure Ruby Implementation of the SSH2 Client Protocol'
     url: https://rubyweekly.com/link/87190/web
+- name: 'rubyweekly #499'
+  send: false
+  content:
+  - title: "▶  Let's Build a Twitter Clone in 10 Minutes with Rails, CableReady, and
+      StimulusReflex"
+    url: https://rubyweekly.com/link/87554/web
+  - title: 'discuss.rubyonrails: The Rails Project Discussion Forum'
+    url: https://rubyweekly.com/link/87555/web
+  - title: Easy Rails Deployments
+    url: https://rubyweekly.com/link/87556/web
+  - title: 'sequel-activerecord-adapter: Allows Sequel to Reuse an ActiveRecord Connection'
+    url: https://rubyweekly.com/link/87557/web
+  - title: Ruby Adds Experimental Support for 'End-Less' Method Definitions
+    url: https://rubyweekly.com/link/87558/web
+  - title: 'CableReady: Trigger Client-Side DOM Changes from Server-Side Ruby'
+    url: https://rubyweekly.com/link/87560/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/87562/web
+  - title: Security Engineer (Remote)
+    url: https://rubyweekly.com/link/87563/web
+  - title: A Practical Use for PStore
+    url: https://rubyweekly.com/link/87565/web
+  - title: "▶  Drag and Drop Sortable Lists with Rails and Stimulus JS"
+    url: https://rubyweekly.com/link/87567/web
+  - title: Setting Up Multi-Factor Authentication for RubyGems.org
+    url: https://rubyweekly.com/link/87569/web
+  - title: "Let’s Explore Big-O Notation With Ruby \U0001F575"
+    url: https://rubyweekly.com/link/87570/web
+  - title: "▶  Discussing Docker and Kubernetes with Kelsey Hightower"
+    url: https://rubyweekly.com/link/87574/web
+  - title: Rails System Tests in Docker
+    url: https://rubyweekly.com/link/87572/web
+  - title: The Difference Between System Specs and Feature Specs
+    url: https://rubyweekly.com/link/87573/web
+  - title: Why Rubyists Should Consider Learning Go
+    url: https://rubyweekly.com/link/87575/web
+  - title: Building a Ruby CLI with Thor
+    url: https://rubyweekly.com/link/87571/web
+  - title: 'git curate: Peruse and Delete git Branches Ergonomically'
+    url: https://rubyweekly.com/link/87578/web
+  - title: 'MessageBus: A Reliable and Robust Messaging Bus for Ruby and Rack'
+    url: https://rubyweekly.com/link/87579/web
+  - title: Are You Spending Too Much on Heroku?
+    url: https://rubyweekly.com/link/87580/web
+  - title: 'bootstrap_form: A Rails Form Builder for Bootstrap v4-Style Forms'
+    url: https://rubyweekly.com/link/87581/web
+  - title: 'ActiveModelAttributes: The Active Record Attributes API, but for Active
+      Model'
+    url: https://rubyweekly.com/link/87582/web
