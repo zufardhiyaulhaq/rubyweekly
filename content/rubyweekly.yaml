@@ -669,3 +669,52 @@
   - title: 'ActiveModelAttributes: The Active Record Attributes API, but for Active
       Model'
     url: https://rubyweekly.com/link/87582/web
+- name: 'rubyweekly #500'
+  send: false
+  content:
+  - title: 'Ruby Next: Make All Rubies Quack Alike'
+    url: https://rubyweekly.com/link/87905/web
+  - title: Ruby 3 'Guilds' Proposal Now Called Ractor
+    url: https://rubyweekly.com/link/87906/web
+  - title: Don’t Do Auth From Scratch. Focus On Your App
+    url: https://rubyweekly.com/link/87908/web
+  - title: Take the 2020 Ruby on Rails Survey
+    url: https://rubyweekly.com/link/87909/web
+  - title: 'Alt::BrightonRuby: A Slightly Odd, Quasi-Conference for Strange Times'
+    url: https://rubyweekly.com/link/87921/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/87922/web
+  - title: Security Engineer (Remote)
+    url: https://rubyweekly.com/link/87943/web
+  - title: "▶  How To Begin Contributing to a Gem"
+    url: https://rubyweekly.com/link/87924/web
+  - title: How to Set Up Factory Bot on a Fresh Rails Project
+    url: https://rubyweekly.com/link/87925/web
+  - title: Using Postgres's DISTINCT ON to Avoid an N+1 Query
+    url: https://rubyweekly.com/link/87926/web
+  - title: Need to Upgrade Rails? Don’t Know How Long It Will Take?
+    url: https://rubyweekly.com/link/87927/web
+  - title: 5 Uses for 'Splats'
+    url: https://rubyweekly.com/link/87928/web
+  - title: Running Multiple Instances of Webpacker
+    url: https://rubyweekly.com/link/87929/web
+  - title: Performing Asynchronous HTTP requests in Rails
+    url: https://rubyweekly.com/link/87930/web
+  - title: How to Use AWS SimpleDB from Ruby
+    url: https://rubyweekly.com/link/87931/web
+  - title: What's The Difference Between Monitoring Webhooks and Background Jobs
+    url: https://rubyweekly.com/link/87933/web
+  - title: Ways to Reduce Your Heroku App's Slug Size
+    url: https://rubyweekly.com/link/87934/web
+  - title: A Chat with Thibaut Barrère
+    url: https://rubyweekly.com/link/87935/web
+  - title: 'Rodauth 2.0: Ruby''s ''Most Advanced'' Authentication Framework'
+    url: https://rubyweekly.com/link/87936/web
+  - title: RubyGems 3.1.3 Released
+    url: https://rubyweekly.com/link/87938/web
+  - title: 'Business: Business Day Calculations for Ruby'
+    url: https://rubyweekly.com/link/87939/web
+  - title: 'Lockbox: Modern Encryption for Rails'
+    url: https://rubyweekly.com/link/87940/web
+  - title: 'split: The Rack Based A/B ''Split'' Testing Framework'
+    url: https://rubyweekly.com/link/87941/web
