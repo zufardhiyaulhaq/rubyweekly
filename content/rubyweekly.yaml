@@ -670,7 +670,7 @@
       Model'
     url: https://rubyweekly.com/link/87582/web
 - name: 'rubyweekly #500'
-  send: false
+  send: true
   content:
   - title: 'Ruby Next: Make All Rubies Quack Alike'
     url: https://rubyweekly.com/link/87905/web
