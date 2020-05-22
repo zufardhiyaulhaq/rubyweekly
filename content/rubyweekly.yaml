@@ -718,3 +718,58 @@
     url: https://rubyweekly.com/link/87940/web
   - title: 'split: The Rack Based A/B ''Split'' Testing Framework'
     url: https://rubyweekly.com/link/87941/web
+- name: 'rubyweekly #502'
+  send: false
+  content:
+  - title: How to Fix Slow Code in Ruby
+    url: https://rubyweekly.com/link/88732/web
+  - title: TruffleRuby 20.1.0 Released
+    url: https://rubyweekly.com/link/88733/web
+  - title: Troubleshoot Ruby App Issues with End-To-End Distributed Tracing
+    url: https://rubyweekly.com/link/88737/web
+  - title: Ruby Gaining a Lighter-Weight Scheduler for Improved Concurrency?
+    url: https://rubyweekly.com/link/88738/web
+  - title: Game of Life in One Ruby Statement.. Inspired by APL
+    url: https://rubyweekly.com/link/88740/web
+  - title: Why Fullstaq Ruby?
+    url: https://rubyweekly.com/link/88741/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/88743/web
+  - title: Ruby on Rails Developer (Remote)
+    url: https://rubyweekly.com/link/88769/web
+  - title: How to Migrate From Capybara Webkit to Webdrivers
+    url: https://rubyweekly.com/link/88745/web
+  - title: Assignments in Conditional Expressions
+    url: https://rubyweekly.com/link/88747/web
+  - title: Binpacking SQS Batches
+    url: https://rubyweekly.com/link/88748/web
+  - title: How We Helped Our Customers Get a 3x Performance Boost on Their Postgres
+      DB
+    url: https://rubyweekly.com/link/88749/web
+  - title: The Rocky Road to Implementing Link Prefetching in Rails
+    url: https://rubyweekly.com/link/88750/web
+  - title: A Chat with Brittany Martin
+    url: https://rubyweekly.com/link/88751/web
+  - title: 'Sail 3.5: An Admin Panel for Managing Config Settings on a Live Rails
+      App'
+    url: https://rubyweekly.com/link/88752/web
+  - title: Rails 5.2.4.3 and 6.0.3.1 Released
+    url: https://rubyweekly.com/link/88753/web
+  - title: 'FCM 1.0: Ruby Bindings to Firebase Cloud Messaging'
+    url: https://rubyweekly.com/link/88754/web
+  - title: Why Do Developers Choose Raygun Over New Relic?
+    url: https://rubyweekly.com/link/88755/web
+  - title: 'Foot Traffic: A DSL for Chrome Scripting Based on Ferrum'
+    url: https://rubyweekly.com/link/88756/web
+  - title: 'Prophet.rb: Time Series Forecasting for Ruby'
+    url: https://rubyweekly.com/link/88757/web
+  - title: 'AvroTurf 1.0: Improved Avro Serialization for Ruby'
+    url: https://rubyweekly.com/link/88759/web
+  - title: 'Committee: Rack Middleware to Build Services with JSON Schema'
+    url: https://rubyweekly.com/link/88761/web
+  - title: 'RBS: A Language for Ruby Type Signatures'
+    url: https://rubyweekly.com/link/88764/web
+  - title: 'awspec: RSpec Tests for Your AWS Resources'
+    url: https://rubyweekly.com/link/88762/web
+  - title: 'BulkInsert 1.8.0: Efficient Bulk Inserts for Active Record'
+    url: https://rubyweekly.com/link/88763/web
