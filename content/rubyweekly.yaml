@@ -719,7 +719,7 @@
   - title: 'split: The Rack Based A/B ''Split'' Testing Framework'
     url: https://rubyweekly.com/link/87941/web
 - name: 'rubyweekly #502'
-  send: false
+  send: true
   content:
   - title: How to Fix Slow Code in Ruby
     url: https://rubyweekly.com/link/88732/web
