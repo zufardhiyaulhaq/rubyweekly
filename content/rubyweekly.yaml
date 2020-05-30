@@ -773,3 +773,55 @@
     url: https://rubyweekly.com/link/88762/web
   - title: 'BulkInsert 1.8.0: Efficient Bulk Inserts for Active Record'
     url: https://rubyweekly.com/link/88763/web
+- name: 'rubyweekly #503'
+  send: false
+  content:
+  - title: The Results of a Survey into RuboCop's Defaults
+    url: https://rubyweekly.com/link/89188/web
+  - title: 'delete_in_batches: A Fast Way to Delete with Active Record'
+    url: https://rubyweekly.com/link/89189/web
+  - title: Happy Rails Deployments with Cloud 66
+    url: https://rubyweekly.com/link/89190/web
+  - title: 'VCR 6.0: Record Your Test Suite''s HTTP Interactions and Replay Them'
+    url: https://rubyweekly.com/link/89191/web
+  - title: Creating a Ruby Gem with Rust
+    url: https://rubyweekly.com/link/89192/web
+  - title: Engineering Manager Backend (f/m/x)
+    url: https://rubyweekly.com/link/89200/web
+  - title: Software Developer at Dr. Bill (Canada Only - Vancouver BC or Remote)
+    url: https://rubyweekly.com/link/89201/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/89202/web
+  - title: Never Query the Same Thing More Than Once
+    url: https://rubyweekly.com/link/89204/web
+  - title: 'From 25 Minutes to 7 Minutes: Improving the Performance of a Rails CI
+      Pipeline'
+    url: https://rubyweekly.com/link/89205/web
+  - title: Rails 6.1 Adds Support for Signed IDs to Active Record
+    url: https://rubyweekly.com/link/89206/web
+  - title: "Opening The Ruby Concurrency Toolbox \U0001F6E0"
+    url: https://rubyweekly.com/link/89207/web
+  - title: Two Commonly Used Rails Upgrade Strategies
+    url: https://rubyweekly.com/link/89208/web
+  - title: "▶  Setting Up a New Mac for Development"
+    url: https://rubyweekly.com/link/89209/web
+  - title: Speeding Up Rails with Memoization
+    url: https://rubyweekly.com/link/89210/web
+  - title: A Quick Comparison of Approaches to Multitenancy in Webapps
+    url: https://rubyweekly.com/link/89211/web
+  - title: 'Catch a Batch: Making Mayhem 5 Times More Responsive'
+    url: https://rubyweekly.com/link/89212/web
+  - title: 'pry-rescue: Start a Pry Session Whenever Something Goes Wrong'
+    url: https://rubyweekly.com/link/89213/web
+  - title: Jekyll 4.1.0 Released
+    url: https://rubyweekly.com/link/89215/web
+  - title: 'Dynamoid 3.5: A Ruby ORM for Amazon''s DynamoDB'
+    url: https://rubyweekly.com/link/89216/web
+  - title: On Heroku? Now You Can Autoscale Sidekiq, Resque, DJ, and More
+    url: https://rubyweekly.com/link/89218/web
+  - title: 'webmention-client-ruby: A Ruby Gem for Sending Webmention Notifications'
+    url: https://rubyweekly.com/link/89219/web
+  - title: 'PgHero 2.5: A Performance Dashboard for Postgres'
+    url: https://rubyweekly.com/link/89220/web
+  - title: 'Rambulance: Dynamically Render Error Pages for Rails Apps'
+    url: https://rubyweekly.com/link/89221/web
