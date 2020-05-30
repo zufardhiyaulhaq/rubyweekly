@@ -774,7 +774,7 @@
   - title: 'BulkInsert 1.8.0: Efficient Bulk Inserts for Active Record'
     url: https://rubyweekly.com/link/88763/web
 - name: 'rubyweekly #503'
-  send: false
+  send: true
   content:
   - title: The Results of a Survey into RuboCop's Defaults
     url: https://rubyweekly.com/link/89188/web
