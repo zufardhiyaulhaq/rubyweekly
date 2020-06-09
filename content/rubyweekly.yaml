@@ -826,7 +826,7 @@
   - title: 'Rambulance: Dynamically Render Error Pages for Rails Apps'
     url: https://rubyweekly.com/link/89221/web
 - name: 'rubyweekly #504'
-  send: false
+  send: true
   content:
   - title: "▶  Discussing Rails Deployment and Hosting Options with Nate Berkopec"
     url: https://rubyweekly.com/link/89599/web
