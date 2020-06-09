@@ -825,3 +825,59 @@
     url: https://rubyweekly.com/link/89220/web
   - title: 'Rambulance: Dynamically Render Error Pages for Rails Apps'
     url: https://rubyweekly.com/link/89221/web
+- name: 'rubyweekly #504'
+  send: false
+  content:
+  - title: "▶  Discussing Rails Deployment and Hosting Options with Nate Berkopec"
+    url: https://rubyweekly.com/link/89599/web
+  - title: 'rails new --minimal: A Minimal Rails App Skeleton Generator'
+    url: https://rubyweekly.com/link/89600/web
+  - title: We’ve Helped Customers Speed Up Postgres Queries by 1000x. Learn How in
+      This Free eBook
+    url: https://rubyweekly.com/link/89602/web
+  - title: RubyKaigi 2020 Now Cancelled
+    url: https://rubyweekly.com/link/89634/web
+  - title: Writing Better Stimulus Controllers
+    url: https://rubyweekly.com/link/89603/web
+  - title: 'Geared Pagination 1.0: Paginate Active Record Sets at Variable Speeds'
+    url: https://rubyweekly.com/link/89604/web
+  - title: Announcing a 100% Remote Opportunity as a Sr. Ruby on Rails Dev
+    url: https://rubyweekly.com/link/89607/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/89608/web
+  - title: Why You Should Avoid Nested Single-Table Inheritance
+    url: https://rubyweekly.com/link/89610/web
+  - title: Full Page Caching in Rails with Nginx and Redis
+    url: https://rubyweekly.com/link/89611/web
+  - title: Why Use Factory Bot Instead of Creating Test Data Manually?
+    url: https://rubyweekly.com/link/89613/web
+  - title: "Need to Upgrade Rails? Download The Complete Guide to Upgrade Rails \U0001F680"
+    url: https://rubyweekly.com/link/89619/web
+  - title: The Best Tool for the Automation Job
+    url: https://rubyweekly.com/link/89614/web
+  - title: Configuring Webpacker for Rails 6 with Bootstrap, jQuery and Hot Module
+      Reloading
+    url: https://rubyweekly.com/link/89615/web
+  - title: "▶  Using the RubyMine IDE with Docker Compose"
+    url: https://rubyweekly.com/link/89616/web
+  - title: RubyMine 2020.2's Early Access Program (EAP) is Open
+    url: https://rubyweekly.com/link/89617/web
+  - title: Passenger 6.0.5 Released
+    url: https://rubyweekly.com/link/89618/web
+  - title: 'Announcing CockroachDB 20.1: Build Fast, and Build to Last'
+    url: https://rubyweekly.com/link/89612/web
+  - title: 'SearchFlip: Full-Featured Elasticsearch Client with Chainable DSL'
+    url: https://rubyweekly.com/link/89620/web
+  - title: 'AlchemyCMS 4.6: A Rails CMS Engine'
+    url: https://rubyweekly.com/link/89621/web
+  - title: 'AttrJson: Serialized JSON-Hash-Backed Active Record Attributes'
+    url: https://rubyweekly.com/link/89623/web
+  - title: 'ActiveRecord::PostgresEnum 1.0: Postgres''s Enum Data Type Support for
+      Active Record'
+    url: https://rubyweekly.com/link/89624/web
+  - title: 'cfndsl: A DSL for Generating AWS CloudFormation Templates'
+    url: https://rubyweekly.com/link/89625/web
+  - title: 'SassC: Use libsass with Ruby'
+    url: https://rubyweekly.com/link/89626/web
+  - title: 'Piperator 1.2: Composable Pipelines for Enumerators'
+    url: https://rubyweekly.com/link/89627/web
