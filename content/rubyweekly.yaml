@@ -881,3 +881,54 @@
     url: https://rubyweekly.com/link/89626/web
   - title: 'Piperator 1.2: Composable Pipelines for Enumerators'
     url: https://rubyweekly.com/link/89627/web
+- name: 'rubyweekly #505'
+  send: false
+  content:
+  - title: An Interview with Rails' Creator David Heinemeier Hansson
+    url: https://rubyweekly.com/link/89975/web
+  - title: Why and How 'mkdev' Switched to Fullstaq Ruby
+    url: https://rubyweekly.com/link/89977/web
+  - title: How To Set Up A CI Pipeline For A Rails Dual Boot
+    url: https://rubyweekly.com/link/89979/web
+  - title: The RuboCop Name Drama Redux
+    url: https://rubyweekly.com/link/89980/web
+  - title: 'RubyFlow: A Ruby Community Link Blog'
+    url: https://rubyweekly.com/link/89982/web
+  - title: 'ParallelTests 3.0: More Cores Equals Faster Tests'
+    url: https://rubyweekly.com/link/89983/web
+  - title: Find A Job Through Vettery
+    url: https://rubyweekly.com/link/90052/web
+  - title: "▶  Realtime Browser Updates with CableReady"
+    url: https://rubyweekly.com/link/89990/web
+  - title: "▶  Rethinking the View Layer with Components with Joel Hawksley"
+    url: https://rubyweekly.com/link/89992/web
+  - title: Exploring Metaprogramming in Ruby
+    url: https://rubyweekly.com/link/89994/web
+  - title: Best Practices For Getting A Performance Boost On Your Postgres DB
+    url: https://rubyweekly.com/link/89995/web
+  - title: Linkers and Ruby C Extensions
+    url: https://rubyweekly.com/link/89996/web
+  - title: Ruby Refinements
+    url: https://rubyweekly.com/link/89997/web
+  - title: Ruby vs Crystal Performance
+    url: https://rubyweekly.com/link/89998/web
+  - title: I Created The Same App with Rails and 'No' JavaScript
+    url: https://rubyweekly.com/link/89999/web
+  - title: 'TestBench: A ''Principled'' Test Framework'
+    url: https://rubyweekly.com/link/90000/web
+  - title: 'ansible-rails: An Ansible Playbook for Rails App Deployment'
+    url: https://rubyweekly.com/link/90001/web
+  - title: Get Up To $20,000 Free APM Usage Credits*
+    url: https://rubyweekly.com/link/90002/web
+  - title: 'redis-rb 4.2: The Ruby Client Library for Redis'
+    url: https://rubyweekly.com/link/90003/web
+  - title: 'Regexp::Parser: A Regular Expression Parser Library'
+    url: https://rubyweekly.com/link/90006/web
+  - title: 'Active Record SQL Server Adapter 6.0: The SQL Server Adapter for Rails'
+    url: https://rubyweekly.com/link/90007/web
+  - title: 'ROXML 4.1: Ruby Object to XML Mapping Library'
+    url: https://rubyweekly.com/link/90008/web
+  - title: 'Amazing Print 1.2: Pretty Print Your Ruby Objects with Style'
+    url: https://rubyweekly.com/link/90009/web
+  - title: 'Pallets: A Simple Workflow Engine'
+    url: https://rubyweekly.com/link/90011/web
