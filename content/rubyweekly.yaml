@@ -882,7 +882,7 @@
   - title: 'Piperator 1.2: Composable Pipelines for Enumerators'
     url: https://rubyweekly.com/link/89627/web
 - name: 'rubyweekly #505'
-  send: false
+  send: true
   content:
   - title: An Interview with Rails' Creator David Heinemeier Hansson
     url: https://rubyweekly.com/link/89975/web
