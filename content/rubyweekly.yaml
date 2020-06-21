@@ -932,3 +932,59 @@
     url: https://rubyweekly.com/link/90009/web
   - title: 'Pallets: A Simple Workflow Engine'
     url: https://rubyweekly.com/link/90011/web
+- name: 'rubyweekly #506'
+  send: false
+  content:
+  - title: 'SimpleDiscussion: A Simple, Extensible Rails Forum'
+    url: https://rubyweekly.com/link/90363/web
+  - title: Spark Joy by Running Fewer Tests
+    url: https://rubyweekly.com/link/90365/web
+  - title: Building Admin APIs for Rails Apps
+    url: https://rubyweekly.com/link/90366/web
+  - title: Monolithic Ideas For AWS Lambda File Systems
+    url: https://rubyweekly.com/link/90367/web
+  - title: 'Shoulda 4.0: Making Tests Easy on the Fingers and Eyes'
+    url: https://rubyweekly.com/link/90369/web
+  - title: Find a Job Through Vettery
+    url: https://rubyweekly.com/link/90373/web
+  - title: Announcing a 100% Remote Opportunity as a Sr. Ruby on Rails Dev
+    url: https://rubyweekly.com/link/90374/web
+  - title: Taming Legacy Code with Characterization Tests
+    url: https://rubyweekly.com/link/90376/web
+  - title: "▶  Adding Multiuser Live Video Chat to a Rails App"
+    url: https://rubyweekly.com/link/90377/web
+  - title: Rails 6.1’s ActiveModel Errors Revamp
+    url: https://rubyweekly.com/link/90378/web
+  - title: Allowing Dots in Rails Routes
+    url: https://rubyweekly.com/link/90379/web
+  - title: "▶  Testing Your Deployment Pipeline with Adam Hawkins"
+    url: https://rubyweekly.com/link/90380/web
+  - title: Download The Complete Guide to Upgrade Rails (Free eBook)
+    url: https://rubyweekly.com/link/90381/web
+  - title: Using Service Objects in Ruby and Rails
+    url: https://rubyweekly.com/link/90382/web
+  - title: Running a Patched Ruby on Heroku
+    url: https://rubyweekly.com/link/90383/web
+  - title: Evaluating Go's Package Management and Module Systems
+    url: https://rubyweekly.com/link/90384/web
+  - title: Redis Lua Scripting for Library Writers
+    url: https://rubyweekly.com/link/90386/web
+  - title: "▶  Discussing Past Rubies and Rails History with Nick Schwaderer"
+    url: https://rubyweekly.com/link/90388/web
+  - title: How to Create Events in a Google Calendar from a Rails App
+    url: https://rubyweekly.com/link/90389/web
+  - title: 'Inkblot: A Way to Interact with Waveshare e-Paper Displays from Ruby'
+    url: https://rubyweekly.com/link/90390/web
+  - title: 'ruby-docker-skeleton: A Skeleton for Creating an App That Can Run in Docker,
+      Podman, and the Shell'
+    url: https://rubyweekly.com/link/90392/web
+  - title: Track Ruby App Performance with Detailed Flame Graphs in Datadog
+    url: https://rubyweekly.com/link/90393/web
+  - title: 'ActiveType: Make Any Object ''Quack'' Like an Active Record Object'
+    url: https://rubyweekly.com/link/90394/web
+  - title: 'GitHub::DS 0.5: Libraries for Working with SQL on top of Active Record'
+    url: https://rubyweekly.com/link/90396/web
+  - title: 'childprocess 4.0: Cross-Platform Library for Managing Child Processes'
+    url: https://rubyweekly.com/link/90395/web
+  - title: 'puma-newrelic: Puma Stats Sampler for New Relic'
+    url: https://rubyweekly.com/link/90397/web
