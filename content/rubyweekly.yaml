@@ -933,7 +933,7 @@
   - title: 'Pallets: A Simple Workflow Engine'
     url: https://rubyweekly.com/link/90011/web
 - name: 'rubyweekly #506'
-  send: false
+  send: true
   content:
   - title: 'SimpleDiscussion: A Simple, Extensible Rails Forum'
     url: https://rubyweekly.com/link/90363/web
