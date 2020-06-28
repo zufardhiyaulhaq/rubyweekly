@@ -8,21 +8,21 @@ import (
 )
 
 type Builder struct {
-	APIVersion string                       `json:"apiVersion"`
-	Kind       string                       `json:"kind"`
-	Metadata   BuilderMetadata              `json:"metadata"`
-	Spec       communityv1alpha1.WeeklySpec `json:"spec"`
+	APIVersion string                       `yaml:"apiVersion"`
+	Kind       string                       `yaml:"kind"`
+	Metadata   BuilderMetadata              `yaml:"metadata"`
+	Spec       communityv1alpha1.WeeklySpec `yaml:"spec"`
 }
 
 type BuilderMetadata struct {
-	Name      string `json:"name"`
-	Namespace string `json:"namespace"`
+	Name      string `yaml:"name"`
+	Namespace string `yaml:"namespace"`
 }
 
 func (b *Builder) build(name string, articles []communityv1alpha1.ArticleSpec) {
 	b.APIVersion = "community.io/v1alpha1"
 	b.Kind = "Weekly"
-	b.Metadata.Name = name
+	b.Metadata.Name = strings.ToLower(strings.ReplaceAll(name, " ", "-"))
 	b.Metadata.Namespace = os.Getenv("NAMESPACE")
 
 	b.Spec.Name = name

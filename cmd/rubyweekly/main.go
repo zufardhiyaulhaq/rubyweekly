@@ -2,6 +2,7 @@ package main
 
 import (
 	"log"
+	"strings"
 
 	communityv1alpha1 "github.com/cloudnative-id/community-operator/pkg/apis/community/v1alpha1"
 	"github.com/zufardhiyaulhaq/rubyweekly/handlers"
@@ -24,7 +25,7 @@ func main() {
 	// with latest list of weekly from datastore
 	newestWeeklyName := scrapper.GetWeeklyName()
 	for _, v := range recentWeeklyNames {
-		if newestWeeklyName+".yaml" == v {
+		if strings.ToLower(strings.ReplaceAll(newestWeeklyName, " ", "-"))+".yaml" == v {
 			log.Println("Weekly already in datastore")
 			return
 		}
@@ -49,5 +50,5 @@ func main() {
 	}
 
 	commitMessage := "Add" + newestWeeklyName
-	CreateFile(handler, newestWeeklyName+".yaml", commitMessage, crd)
+	CreateFile(handler, strings.ToLower(strings.ReplaceAll(newestWeeklyName, " ", "-"))+".yaml", commitMessage, crd)
 }
