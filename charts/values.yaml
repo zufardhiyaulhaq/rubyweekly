@@ -3,7 +3,7 @@
 jobHistoryLimit: 1
 
 # define time to exec the cronjob
-cronSchedule: "0 0 * * 1"
+cronSchedule: "0 8 * * 5"
 
 # image cronjob configuration
 image:
