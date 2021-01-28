@@ -1,5 +1,5 @@
-# Goweekly
-Get data from rubyweekly.com and create Weekly CRDs based on community-operator & push to datastore
+# rubyweekly charts
+Helm chart for rubyweeklys
 
 ### Installing the charts
 From root directory of rubyweekly. Please edit the values.yaml inside charts before applying.
@@ -26,3 +26,5 @@ helm install zufardhiyaulhaq/rubyweekly --name-template rubyweekly -f values.yam
 | jobHistoryLimit | int | `1` |  |
 | namespace | string | `"ruby-community"` |  |
 | tags | string | `"weekly,ruby"` |  |
+
+check & modify values.yaml for details

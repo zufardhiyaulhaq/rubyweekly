@@ -9,7 +9,7 @@ cronSchedule: "0 8 * * 5"
 image:
   name: "rubyweekly"
   repository: "zufardhiyaulhaq/rubyweekly"
-  tag: "latest"
+  tag: "0.0.1"
 
 #############################
 # envoronment configuration #
