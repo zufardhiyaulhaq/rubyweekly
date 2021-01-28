@@ -1,4 +1,4 @@
-# Goweekly
+# Rubyweekly
 Get data from rubyweekly.com and create Weekly CRDs based on community-operator & push to datastore
 
 ### Installing the charts
