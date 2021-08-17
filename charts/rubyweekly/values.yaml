@@ -1,37 +1,15 @@
 
-# define how many completed & failed pod jobs
-jobHistoryLimit: 1
+cronSchedule: "0 8 * * 0"
 
-# define time to exec the cronjob
-cronSchedule: "0 8 * * 5"
-
-# image cronjob configuration
 image:
-  name: "rubyweekly"
   repository: "zufardhiyaulhaq/rubyweekly"
-  tag: "0.0.1"
+  tag: "v1.0.0"
 
-#############################
-# envoronment configuration #
-#############################
+secret: ""
 
-# github configuration to store the CRDs
-github:
-  token: "your_token"
-  organization: "zufardhiyaulhaq"
-  repository: "community-ops"
-  repository_path: "./manifest/ruby-community/"
-  branch: "master"
-
-# community name for CRDs
-community: "Ruby Indonesia Community"
-
-# tag for CRDs
-tags: "weekly,ruby"
-
-# namespace for CRDs
-namespace: "ruby-community"
-
-# image for CRDs
-image_url: "https://img-a.udemycdn.com/course/750x422/1985744_8694_3.jpg"
+weekly:
+  community: "Ruby Indonesia Community"
+  tags: "weekly,ruby"
+  namespace: "ruby-community"
+  image_url: "https://learnworthy.net/wp-content/uploads/2019/08/A-Complete-Guide-to-the-Ruby-Programming-World.png"
 

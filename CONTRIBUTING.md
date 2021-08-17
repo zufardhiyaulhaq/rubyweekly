@@ -6,7 +6,7 @@ Prerequisites:
 - make
 - [Go 1.13+](https://golang.org/doc/install)
 
-- export this variable
+- export variable for developing
 ```
 export GITHUB_TOKEN="GITHUB_TOKEN"
 export GITHUB_ORGANIZATION="GITHUB_USERNAME/ORGANIZATION"
@@ -14,33 +14,30 @@ export GITHUB_REPOSITORY="GITHUB_REPOSITORY"
 export GITHUB_REPOSITORY_PATH="GITHUB_REPOSITORY_PATH"
 export GITHUB_BRANCH="BRANCH"
 
-export COMMUNITY="COMMUNITY_NAME"
-export TAGS="TAGS"
-export NAMESPACE="CRD_NAMESPACE"
-export IMAGE="IMAGE_FOR_WEEKLY"
+export WEEKLY_COMMUNITY="COMMUNITY_NAME"
+export WEEKLY_TAGS="TAGS"
+export WEEKLY_NAMESPACE="CRD_NAMESPACE"
+export WEEKLY_IMAGE="IMAGE_FOR_WEEKLY"
 ```
+
 for example
 ```
 export GITHUB_TOKEN="token"
 export GITHUB_ORGANIZATION="zufardhiyaulhaq"
 export GITHUB_REPOSITORY="community-ops"
-export GITHUB_REPOSITORY_PATH="./manifest/ruby-community/"
+export GITHUB_REPOSITORY_PATH="./argocd/ruby-community/weekly/"
 export GITHUB_BRANCH="master"
 
-export COMMUNITY="Ruby Indonesia Community"
-export TAGS="weekly,ruby"
-export NAMESPACE="ruby-community"
-export IMAGE="https://trungtq.com/wp-content/uploads/2018/12/GO-3.png"
-```
-- Build & Run
-```
-go build -o rubyweekly cmd/rubyweekly/*.go
-./rubyweekly
+export WEEKLY_COMMUNITY="Ruby Indonesia Community"
+export WEEKLY_TAGS="weekly,ruby"
+export WEEKLY_NAMESPACE="ruby-community"
+export WEEKLY_IMAGE="https://learnworthy.net/wp-content/uploads/2019/08/A-Complete-Guide-to-the-Ruby-Programming-World.png"
 ```
 
-### Build Docker
-- To build your image
+- Lint, test, build, and run
 ```
-make build REPOSITORY=username/repository TAG=tag
+make lint
+make test
+make build
+make run
 ```
-
